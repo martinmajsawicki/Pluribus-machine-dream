@@ -1,0 +1,28 @@
+# Environment variables (contains API keys)
+.env
+.env.local
+.env.*
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.Python
+venv/
+env/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Internal/archived files (not for public repo)
+archive/
+source/
+PIVOT_DOCUMENTATION.md
+preview.html
