@@ -1,2 +1,2 @@
 # Pluribus-machine-dream
-Prompts and materials for an experiment where chatbots generate a hypothetical Season 2 of Pluribus from Season 1 descriptions, comparing short and long prompt variants.
+Prompts and materials for an experiment where chatbots decode the meaning and the ideas from the Season 1 of the Pluribus TV series. 
