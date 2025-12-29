@@ -1,10 +1,8 @@
 # PLUR1BUS Machine Dream
 
-**How Three AI Models Decoded Season 1**
+AI-assisted analysis of Pluribus Season 1. Three models decode the show through five analytical lenses — narrative, character, theme, visual language, ideology. Human gathers, AI synthesizes, human curates.
 
-An experiment in using AI for analysis rather than generation. Instead of asking chatbots to write, I asked them to decode — finding patterns, connections, and meanings in the source material.
-
-🔗 **[View the Website](https://marcinmajsawicki.github.io/pluribus-machine-dream/)**
+🔗 **[View the Website](https://martinmajsawicki.github.io/Pluribus-machine-dream/)**
 
 ---
 
