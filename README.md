@@ -48,8 +48,8 @@ So instead of asking AI to generate (what it's bad at), ask it to decode and ana
 ## Repository Structure
 
 ```
-├── index.html                    # Website (standalone)
-├── index.md                      # Website (Jekyll)
+├── index.html                    # Website
+├── METHODOLOGY.md                # How this approach works (and its limits)
 ├── PLURIBUS_YELLOW_BANNER.png    # Hero image
 ├── pluribus_decode.py            # CLI for running the experiment
 │
